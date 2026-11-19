@@ -1,0 +1,23 @@
+.
+├── config
+│   ├── asgi.py
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-315.pyc
+│   │   ├── settings.cpython-315.pyc
+│   │   ├── urls.cpython-315.pyc
+│   │   ├── views.cpython-315.pyc
+│   │   └── wsgi.cpython-315.pyc
+│   ├── settings.py
+│   ├── urls.py
+│   ├── views.py
+│   └── wsgi.py
+├── db.sqlite3
+├── manage.py
+├── static
+│   └── index.css
+├── structure
+└── templates
+    └── homepage.html
+
+5 directories, 16 files
